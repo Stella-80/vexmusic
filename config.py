@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 ###
 load_dotenv()
 
-# VARS i c
+# VARS
 
 get_queue = {}
 STRING = getenv("STRING_SESSION", "AQAN1ixKZc7e4WgNAGUiMT6Hzfw9bY9erXBT7-az7KEcy4L4tKqQqEKRuXipOMCFWxA8dx4YwnOjS8JNOjVgegAbyi7ENs8saDspcKnH_6-aHQ8PJ9pmEzfxUuuFu3INtQNkuGhv7qVZQWb0A31uztjtGY5VtB80sqdobZyEj8KG6zoX-6DQHh8I0-XJ2ZQfc2xerMHR-BXJ5pDCG56XCN_wt_eWFko3goCVFClnRTtIP_llkfqx3N1tABg-_7WBbSthTdvHqlMpDACiH-ZjAp0XXKRGMZSK8a_rAbXCWDojlQZTvAOaV-HdglAsxqNDVnkruZr9QK9zvrzwfiDlQVJzaA-KyQA")
