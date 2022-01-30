@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 ###
 load_dotenv()
 
-# VARS i c
+# VARS
 
 get_queue = {}
 STRING = getenv("STRING_SESSION", "")
